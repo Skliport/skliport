@@ -1,18 +1,20 @@
 
 <p align="center">
- <img width="100px" src="img/profile circle.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Hi, I'm Francisco! 👋😬</h2>
  <h2 align="center">I'm a Developer, gamer and curious about the innovation</h2>
 </p>
 
 ### What am I currently working on?
--  Learning React.js, React Router and Redux, Node.js, Express.js and Passport.js 💻
--  I aiming to learn Android and iOS Development 👾🍎
+-  Learning Javascript, React.js, React Router and Redux, Node.js, Express.js and Passport.js 💻
+-  Im aiming to learn Android and iOS Development 👾🍎
+
 ---
 
 ### Connect with me:
 
 [<img align="left" alt="Rene Calderon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<a href="mailto:renecalderon890@gmail.com">
 <br />
 
 ### Languages and Tools:
@@ -32,6 +34,7 @@ style="margin-right: 1rem"/>
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right: 1rem"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="margin-right: 1rem"/>
 <br />
+
 ---
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skliport&hide=prs,issues&bg_color=30,4568DC,B06AB3&title_color=fff&text_color=fff)
