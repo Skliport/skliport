@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Rene Calderon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<a href="mailto:renecalderon890@gmail.com">
+<a href="mailto:renecalderon890@gmail.com">Email</a>
 <br />
 
 ### Languages and Tools:
