@@ -5,7 +5,7 @@
 </p>
 
 ### What am I currently working on?
--  Learning Javascript, React.js, React Router and Redux, Node.js, Express.js and Passport.js 💻
+-  Learning Javascript, React.js, React Router and Redux, Node.js, Express.js, Passport.js and flutter💻
 -  Im aiming to learn Android and iOS Development 👾🍎
 
 ---
