@@ -1,8 +1,4 @@
-
-<p align="center">
- <h2 align="center">Hi, I'm Francisco! 👋😬</h2>
- <h2 align="center">I'm a Developer, gamer and curious about the innovation</h2>
-</p>
+<img src="img/memyselfandi.gif"  width="100%">
 
 ### What am I currently working on?
 -  Learning Javascript, React.js, React Router and Redux, Node.js, Express.js, Passport.js and flutter💻
