@@ -4,7 +4,7 @@
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
   <a href="https://www.linkedin.com/in/renecalderondev/)">
-  <code><img alt="My linkedin" width="32" src="[./images/linkedin.svg](https://raw.githubusercontent.com/Skliport/RepoDePruebas/main/img/linkedin.png)" /></code>
+  <code><img alt="My linkedin" width="32" src="https://raw.githubusercontent.com/Skliport/RepoDePruebas/main/img/linkedin.png" /></code>
 </p>
 
 ---
