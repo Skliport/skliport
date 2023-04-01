@@ -1,5 +1,4 @@
 <img src="img/memyselfandi.gif"  width="100%">
----
 
 <div align="center">
     <i>Web Development</i><br><br>
@@ -30,13 +29,14 @@
     <img alt="Flutter" width="50" src="img/flutter.png" />
     <img alt="Photoshop" width="50" src="img/photoshop.png" />
     <img alt="Figma" width="50" src="img/figma.png" />
-    <br><br><i>Mobile Development And UX/UI</i><br><br>
+    <br><br><i>Version Control</i><br><br>
     <img alt="Git" width="50" src="img/git.png" />
     <img alt="GitHub" width="50" src="img/github.png" />
     <img alt="GitLab" width="50" src="img/gitlab.png" />
 </div>
 
 ---
+
 <p align="center" > 
     <i>Thanks for passing by</i><br><br>
     <i>Feel free to connect with me</i><br><br>
