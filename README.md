@@ -1,46 +1,16 @@
 <img src="img/memyselfandi.gif"  width="100%">
+---
 
+<div aling="center">
+    <code><img alt="My linkedin" width="32" src="img/html.png" /></code>
+    <code><img alt="My linkedin" width="32" src="img/css.png" /></code>
+    <code><img alt="My linkedin" width="32" src="img/js.png" /></code>
+</div>
+
+---
 <p align="center" > 
-  <i>Thanks for passing by</i><br><br>
-  <i>Feel free to connect with me</i><br><br>
-  <a href="https://www.linkedin.com/in/renecalderondev/)">
-  <code><img alt="My linkedin" width="32" src="https://raw.githubusercontent.com/Skliport/RepoDePruebas/main/img/linkedin.png" /></code>
+    <i>Thanks for passing by</i><br><br>
+    <i>Feel free to connect with me</i><br><br>
+    <a href="https://www.linkedin.com/in/renecalderondev/)">
+    <code><img alt="My linkedin" width="32" src="img/linkedin.png" /></code>
 </p>
-
----
-
-### Connect with me:
-
-[<img align="left" alt="Rene Calderon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<a href="mailto:renecalderon890@gmail.com">Email</a>
-<a href="https://skliport.github.io/renecalderon/">Webpage</a>
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin-right: 1rem"/>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin-right: 1rem"/>
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" style="margin-right: 1rem" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" style="margin-right: 1rem" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="margin-right: 1rem"/>
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" 
-style="margin-right: 1rem"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin-right: 1rem" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-right: 1rem" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="margin-right: 1rem" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin-right: 1rem" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" style="margin-right: 1rem" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right: 1rem"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="margin-right: 1rem"/>
-<br />
-
----
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skliport&hide=prs,issues&bg_color=30,4568DC,B06AB3&title_color=fff&text_color=fff)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skliport&layout=compact)](https://github.com/skliport)
-
-[linkedin]: https://linkedin.com/in/renecalderondev
