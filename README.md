@@ -1,8 +1,11 @@
 <img src="img/memyselfandi.gif"  width="100%">
 
-### What am I currently working on?
--  Learning Javascript, React.js, React Router and Redux, Node.js, Express.js, Passport.js and flutter💻
--  Im aiming to learn Android and iOS Development 👾🍎
+<p align="center" > 
+  <i>Thanks for passing by</i><br><br>
+  <i>Feel free to connect with me</i><br><br>
+  <a href="https://www.linkedin.com/in/renecalderondev/)">
+  <code><img alt="My linkedin" width="32" src="[./images/linkedin.svg](https://raw.githubusercontent.com/Skliport/RepoDePruebas/main/img/linkedin.png)" /></code>
+</p>
 
 ---
 
